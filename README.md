@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" width="40" style="vertical-align: middle;" />
-  <strong style="font-size: 24px; vertical-align: middle;"> YouTube Music Themes</strong>
+![logo](https://github.com/user-attachments/assets/3d42e8a3-f933-4d6d-a16a-79ea21bb348e)
+
 </p>
 
 
