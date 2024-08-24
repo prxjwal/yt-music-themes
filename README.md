@@ -11,7 +11,8 @@ Cooking more themes
 **Monokai theme for yt-music** 
 ![Screenshot_2024-08-24-11-36-08_1920x1080](https://github.com/user-attachments/assets/c53ab03c-68a6-4d0c-aa48-ee7f9af3a2cb)
 
-
+**Solarized theme for yt-music** 
+![Screenshot_2024-08-24-14-45-07_1920x1080](https://github.com/user-attachments/assets/48299581-f2e8-4011-a758-08f6adf23361)
 
 **Gruvbox theme for yt-music** 
 ![Screenshot_2024-08-24-12-45-10_1920x1080](https://github.com/user-attachments/assets/8171f57f-d2ab-4f47-bd05-c50e2c048824)
