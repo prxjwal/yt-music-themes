@@ -1,8 +1,6 @@
 <p align="center">
-  <div style="display: flex; align-items: center;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" width="40" style="margin-right: 10px;" />
-    <span style="font-size: 24px; font-weight: bold;">YouTube Music Themes</span>
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" width="40" style="vertical-align: middle;" />
+  <strong style="font-size: 24px; vertical-align: middle;"> YouTube Music Themes</strong>
 </p>
 
 
