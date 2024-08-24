@@ -19,42 +19,42 @@
 
 
 <details>
-  <summary>Spotify theme for YT Music</summary>
+  <summary>Spotify </summary>
   <img src="https://github.com/user-attachments/assets/dd574626-4387-4e98-b423-95b9dd7584c5" alt="Spotify theme screenshot" />
 </details>
 
 <details>
-  <summary>Nordic theme for YT Music</summary>
+  <summary>Nordic </summary>
   <img src="https://github.com/user-attachments/assets/39d74799-b42f-4e28-8842-78ae14b2a1c7" alt="Nordic theme screenshot" />
 </details>
 
 <details>
-  <summary>Monokai theme for YT Music</summary>
+  <summary>Monokai </summary>
   <img src="https://github.com/user-attachments/assets/c53ab03c-68a6-4d0c-aa48-ee7f9af3a2cb" alt="Monokai theme screenshot" />
 </details>
 
 <details>
-  <summary>Solarized theme for YT Music</summary>
+  <summary>Solarized </summary>
   <img src="https://github.com/user-attachments/assets/48299581-f2e8-4011-a758-08f6adf23361" alt="Solarized theme screenshot" />
 </details>
 
 <details>
-  <summary>Tokyo Night theme for YT Music</summary>
+  <summary>Tokyo Night </summary>
   <img src="https://github.com/user-attachments/assets/4d5b4240-7ff8-42aa-ac0f-88c36e9db498" alt="Tokyo Night theme screenshot" />
 </details>
 
 <details>
-  <summary>Gruvbox theme for YT Music</summary>
+  <summary>Gruvbox </summary>
   <img src="https://github.com/user-attachments/assets/8171f57f-d2ab-4f47-bd05-c50e2c048824" alt="Gruvbox theme screenshot" />
 </details>
 
 <details>
-  <summary>Gruvbox-Light theme for YT Music</summary>
+  <summary>Gruvbox-Light </summary>
   <img src="https://github.com/user-attachments/assets/3cf75560-d4ab-4650-8291-a4170e08054b" alt="Gruvbox-Light theme screenshot" />
 </details>
 
 <details>
-  <summary>PaleNight theme for YT Music</summary>
+  <summary>PaleNight </summary>
   <img src="https://github.com/user-attachments/assets/273a5767-aa4f-413c-9fc1-085289264d38" alt="PaleNight theme screenshot" />
 </details>
 
