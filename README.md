@@ -24,6 +24,10 @@ Cooking more themes
 **Gruvbox-Light theme for yt-music**
 ![Screenshot_2024-08-24-13-53-10_1920x1080](https://github.com/user-attachments/assets/3cf75560-d4ab-4650-8291-a4170e08054b)
 
+**PaleNight theme for yt-music**
+![Screenshot_2024-08-24-15-15-49_1920x1080](https://github.com/user-attachments/assets/273a5767-aa4f-413c-9fc1-085289264d38)
+
+
 
 
 
