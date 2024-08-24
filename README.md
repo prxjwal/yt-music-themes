@@ -1,4 +1,4 @@
-# yt-music-themes
+# Youtube Music Themes
 
 Cooking more themes
 
