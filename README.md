@@ -14,6 +14,10 @@ Cooking more themes
 **Solarized theme for yt-music** 
 ![Screenshot_2024-08-24-14-45-07_1920x1080](https://github.com/user-attachments/assets/48299581-f2e8-4011-a758-08f6adf23361)
 
+**Tokyo Night theme for yt-music** 
+![Screenshot_2024-08-24-15-00-26_1920x1080](https://github.com/user-attachments/assets/4d5b4240-7ff8-42aa-ac0f-88c36e9db498)
+
+
 **Gruvbox theme for yt-music** 
 ![Screenshot_2024-08-24-12-45-10_1920x1080](https://github.com/user-attachments/assets/8171f57f-d2ab-4f47-bd05-c50e2c048824)
 
