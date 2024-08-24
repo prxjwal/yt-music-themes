@@ -2,15 +2,15 @@
 
 ## Preview
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82" width="60%" />
-  <img src="https://github.com/user-attachments/assets/00e9e079-f073-461d-a495-416779177afd" width="60%" />
-  <img src="https://github.com/user-attachments/assets/5fe01d03-e5a2-4a30-a7b3-446d7a41bac4" width="60%" />
+  <img src="https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82" width="50%" />
+  <img src="https://github.com/user-attachments/assets/00e9e079-f073-461d-a495-416779177afd" width="50%" />
+  
 </p>
 
 
 <details>
 <summary>View More Themes</summary>
-
+<img src="https://github.com/user-attachments/assets/5fe01d03-e5a2-4a30-a7b3-446d7a41bac4" width="60%" />
 ### Spotify theme for YT Music
 ![Spotify theme screenshot](https://github.com/user-attachments/assets/dd574626-4387-4e98-b423-95b9dd7584c5 "Spotify theme")
 
