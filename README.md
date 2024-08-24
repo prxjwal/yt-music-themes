@@ -1,6 +1,8 @@
-# Youtube Music Themes
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Youtube_music_icon_%282020%29.svg/1200px-Youtube_music_icon_%282020%29.svg.png" width="40" style="vertical-align: middle; margin-right: 10px;" />
+  <span style="color: #FF0000; font-size: 24px; font-weight: bold;">YouTube Music Themes</span>
+</p>
 
-## Preview
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82" width="45%" style="margin-right: 10px;" />
   <img src="https://github.com/user-attachments/assets/00e9e079-f073-461d-a495-416779177afd" width="45%" style="margin-left: 10px;" />
@@ -12,8 +14,7 @@
 
 
 
-<details>
-<summary>View More Themes</summary>
+
 ### Spotify theme for YT Music
 ![Spotify theme screenshot](https://github.com/user-attachments/assets/dd574626-4387-4e98-b423-95b9dd7584c5 "Spotify theme")
 
@@ -38,4 +39,3 @@
 ### PaleNight theme for YT Music
 ![PaleNight theme screenshot](https://github.com/user-attachments/assets/273a5767-aa4f-413c-9fc1-085289264d38 "PaleNight theme")
 
-</details>
