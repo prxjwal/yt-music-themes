@@ -1,10 +1,12 @@
 # Youtube Music Themes
 
 ## Preview
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82" width="30%" />
+  <img src="https://github.com/user-attachments/assets/00e9e079-f073-461d-a495-416779177afd" width="30%" />
+  <img src="https://github.com/user-attachments/assets/5fe01d03-e5a2-4a30-a7b3-446d7a41bac4" width="30%" />
+</p>
 
-![Screenshot_2024-08-24-14-45-07](https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82)
-![Screenshot_2024-08-24-12-45-10](https://github.com/user-attachments/assets/00e9e079-f073-461d-a495-416779177afd)
-![Screenshot_2024-08-24-15-00-26](https://github.com/user-attachments/assets/5fe01d03-e5a2-4a30-a7b3-446d7a41bac4)
 
 <details>
 <summary>View More Themes</summary>
