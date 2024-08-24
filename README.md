@@ -13,5 +13,9 @@ Cooking more themes
 
 
 
+**Gruvbox theme for yt-music** 
+![Screenshot_2024-08-24-12-45-10_1920x1080](https://github.com/user-attachments/assets/8171f57f-d2ab-4f47-bd05-c50e2c048824)
+
+
 
 
