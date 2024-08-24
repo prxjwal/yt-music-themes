@@ -1,7 +1,8 @@
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Youtube_Music_icon.svg" width="40" style="vertical-align: middle; margin-right: 10px;" />
-  <span style="color: #FF0000; font-size: 24px; font-weight: bold;">YouTube Music Themes</span>
+  <img src="https://via.placeholder.com/300x40/FF0000/FFFFFF?text=YouTube+Music+Themes" alt="YouTube Music Themes" style="vertical-align: middle;" />
 </p>
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/bb055afa-28d0-4c14-837c-4ea60341cf82" width="45%" style="margin-right: 10px;" />
